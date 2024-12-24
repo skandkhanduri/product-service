@@ -1,0 +1,9 @@
+com/secor/productservice/mapper/ProductMapperImpl.class
+com/secor/productservice/exceptions/ProductServiceExceptionHandler.class
+com/secor/productservice/controller/ProductController.class
+com/secor/productservice/service/ProductServices.class
+com/secor/productservice/dto/ProductDto.class
+com/secor/productservice/repository/ProductRepository.class
+com/secor/productservice/entity/Product.class
+com/secor/productservice/mapper/ProductMapper.class
+com/secor/productservice/ProductService.class
